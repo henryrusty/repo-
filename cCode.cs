@@ -10,7 +10,7 @@
                 power *= C;
             }
             return result;
-        };  
+        };  //hello
 for (int k = 0; k < symmetry; k++)
                 {
                     byte[] p = ps[k];
